@@ -1,0 +1,82 @@
+:root{
+    --accent-color:#2196F3;
+  --logo-color: #000;
+  --text-color:#212121;
+  --additional-color: #757575;
+  --footer-namber:rgba(255, 255, 255, 0.60);
+  --footer-background: #2F303A;
+  --team-background:#F5F4FA;
+  --main-background:#FFF;
+  }
+  
+  .hero{
+      background-color:var(--footer-background);
+      color:var(--main-background);
+  }
+  
+  footer {
+      background-color: var(--footer-background);
+      color: var(--main-background);
+  
+  }
+  
+  button {
+      background-color:var(--accent-color);
+      color: var(--main-background);
+  }
+  
+  .blue {
+      color: var(--accent-color);
+    }
+    
+    .black2 {
+      color: var(--logo-color);
+    }
+    
+    .blue2 {
+      color: var(--accent-color);
+    }
+    
+    .white {
+      color: var(--main-background);
+    }
+  
+  #footer-logo {
+    color: inherit;
+    color: var(--main-background);
+  }
+  
+  .footer-link {
+    color:var(--main-background60);
+  }
+  
+  .blue-black {
+    color: var(--main-background);
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .list-title {
+    color: var(--logo-color);
+  }
+  
+  .list-paragraf {
+    color:var(--additional-color);
+  }
+  
+  .list-name {
+    color: var(--logo-color);
+  }
+  
+  .header-link {
+    color: var(--additional-color);
+  }
+  
+  .header-links {
+    color:  var(--logo-color);
+  }
+  
+  
+  
