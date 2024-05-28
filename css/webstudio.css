@@ -25,11 +25,11 @@
       color: var(--main-background);
   }
   
-  .blue {
+  .header-blue {
       color: var(--accent-color);
     }
     
-    .black2 {
+    .header-black2 {
       color: var(--logo-color);
     }
     
@@ -62,7 +62,7 @@
     color: var(--logo-color);
   }
   
-  .list-paragraf {
+  .advantages-item {
     color:var(--additional-color);
   }
   
