@@ -13,7 +13,7 @@ footer{
     background-color:var(--footer-background);
     color: var(--main-background);
 }
-.button button:hover {
+button button:hover {
     background-color:var(--accent-color);
 }
 
@@ -29,13 +29,13 @@ footer{
     color: var(--text-color);
   }
 
-  .button {
+  button {
     text-align: left; 
     color: var(--text-color);
     background-color: #F5F4FA;
 }
 
-.button li {
+button li {
     display: inline-block;
     margin-right: 10px; 
 }
