@@ -20,6 +20,7 @@ button button:hover {
 #footer-link {
     color: inherit;
   }
+  
 
   .blue {
     color:var(--accent-color);
@@ -59,3 +60,5 @@ h3 {
 p {
   color: var(--additional-color);
 }
+
+/* 22222222222222222222
